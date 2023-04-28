@@ -12,8 +12,11 @@ I hope this can help those who wish to implement these algorithmic routines/adap
  2. He, X., & Kempe, D. (2018). Stability and robustness in influence maximization. ACM Transactions on Knowledge Discovery from Data (TKDD), 12(6), 1-34.
  
 ## Contribution details and acknowledgement
+
 Copyright: Subhasree Sengupta
+
 Contact: subhass@g.clemson.edu & susengup@syr.edu
+
 Citation, acknowledgement needed if this code bank is used/modified. 
  
  
