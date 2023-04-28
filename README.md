@@ -17,6 +17,6 @@ Copyright: Subhasree Sengupta
 
 Contact: subhass@g.clemson.edu & susengup@syr.edu
 
-Citation, acknowledgement needed if this code bank is used/modified. 
+Citation, acknowledgement needed of this github code bank needed if this code bank is used/modified. 
  
  
