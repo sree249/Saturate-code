@@ -30,7 +30,7 @@ Copyright @ Subhasree Sengupta
 
 Contact: subhass@g.clemson.edu & susengup@syr.edu
 
-Citation, acknowledgement needed of this github code bank needed if this code bank is used/modified. 
+Citation, acknowledgement needed of this github code bank if it is used/modified. 
 
 ### This project is licensed under the terms of the MIT license.
 
