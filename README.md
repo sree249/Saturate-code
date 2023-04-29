@@ -17,7 +17,8 @@ Most should be available under anaconda standard releases.
 2. scipy 
 3. numpy
 4. matplotlib (for visualizations if needbe)
-5. gurobipy (follow the instructions here for further details: https://www.gurobi.com/documentation/9.5/quickstart_mac/cs_anaconda_and_grb_conda_.html)
+5. gurobipy (for running optimization pipelines)
+(follow the instructions here for further details on gurobi: https://www.gurobi.com/documentation/9.5/quickstart_mac/cs_anaconda_and_grb_conda_.html)
  
 ## Contribution details and acknowledgement
 
