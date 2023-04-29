@@ -19,6 +19,6 @@ Contact: subhass@g.clemson.edu & susengup@syr.edu
 
 Citation, acknowledgement needed of this github code bank needed if this code bank is used/modified. 
 
-Please use the following DOI for citation purposes: [![DOI](https://zenodo.org/badge/634052812.svg)](https://zenodo.org/badge/latestdoi/634052812)]
+Please use the following DOI for citation purposes: [![DOI](https://zenodo.org/badge/634052812.svg)](https://zenodo.org/badge/latestdoi/634052812)
  
  
