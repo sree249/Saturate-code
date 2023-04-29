@@ -11,14 +11,24 @@ I hope this can help those who wish to implement these algorithmic routines/adap
  1. Krause, A., McMahan, H. B., Guestrin, C., & Gupta, A. (2008). Robust Submodular Observation Selection. Journal of Machine Learning Research, 9(12).
  2. He, X., & Kempe, D. (2018). Stability and robustness in influence maximization. ACM Transactions on Knowledge Discovery from Data (TKDD), 12(6), 1-34.
  
+## Software requirements:
+Most should be available under anaconda standard releases.
+1. networkx (for social network processing)
+2. scipy 
+3. numpy
+4. matplotlib (for visualizations if needbe)
+5. gurobipy (follow the instructions here for further details: https://www.gurobi.com/documentation/9.5/quickstart_mac/cs_anaconda_and_grb_conda_.html)
+ 
 ## Contribution details and acknowledgement
 
-Copyright @ Subhasree Sengupta
+Copyright @ Subhasree Sengupta 
 
 Contact: subhass@g.clemson.edu & susengup@syr.edu
 
 Citation, acknowledgement needed of this github code bank needed if this code bank is used/modified. 
 
-Please use the following DOI for citation purposes: [![DOI](https://zenodo.org/badge/634052812.svg)](https://zenodo.org/badge/latestdoi/634052812)
+### This project is licensed under the terms of the MIT license.
+
+### Please use the following DOI for citation purposes: [![DOI](https://zenodo.org/badge/634052812.svg)](https://zenodo.org/badge/latestdoi/634052812)
  
  
