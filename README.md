@@ -1,7 +1,8 @@
 # Saturate code - an application for optimization problems linked with social network analysis
 
 ## Brief description and purpose
-Implementation of saturate code and optimization routines
+Implementation of saturate code and optimization routines.
+
 A foundational and exhaustive code bank, include various network related optimization routines that can be used for a dimension of combinatorial optimization problems, using social network as an application case. 
 Several different optimization routines are combined with computational scale-up methods that might help to run these optimization related programs more smoothly. 
 
