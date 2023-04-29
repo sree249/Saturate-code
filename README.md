@@ -12,6 +12,7 @@ I hope this can help those who wish to implement these algorithmic routines/adap
  ## Relevant papers include: 
  1. Krause, A., McMahan, H. B., Guestrin, C., & Gupta, A. (2008). Robust Submodular Observation Selection. Journal of Machine Learning Research, 9(12).
  2. He, X., & Kempe, D. (2018). Stability and robustness in influence maximization. ACM Transactions on Knowledge Discovery from Data (TKDD), 12(6), 1-34.
+ 3. Goyal, A., Lu, W., & Lakshmanan, L. V. (2011, March). Celf++ optimizing the greedy algorithm for influence maximization in social networks. In Proceedings of the 20th international conference companion on World wide web (pp. 47-48).
  
 ## Software requirements:
 Most should be available under anaconda standard releases.
