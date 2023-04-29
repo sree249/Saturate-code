@@ -3,7 +3,8 @@
 ## Brief description and purpose
 Implementation of saturate code and optimization routines.
 
-A foundational and exhaustive code bank, include various network related optimization routines that can be used for a dimension of combinatorial optimization problems, using social network as an application case. 
+A foundational and exhaustive code bank, includes various network related optimization routines that can be used for a class of combinatorial optimization problems, using social networks as an application case. It builds on the theoretical foundations highlighted in the linked papers. The idea is akin to set coverage, how to cover a given set with uncertainities and resource constraints. Please see the papers for mathematical details and insights. The code bank is to aid and provide insights into implementation and practical use cases that can leverage the theoretical foundations. 
+
 Several different optimization routines are combined with computational scale-up methods that might help to run these optimization related programs more smoothly. 
 
 I hope this can help those who wish to implement these algorithmic routines/adapt it for their own experiments. 
